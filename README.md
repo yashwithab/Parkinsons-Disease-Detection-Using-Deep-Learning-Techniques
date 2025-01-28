@@ -25,6 +25,5 @@ In this Project we explore a way to detect the disease through scalograms
  explore the data set and convert all text files into CSV format 
  source : https://physionet.org/content/gaitpdb/1.0.0/
 
- #STEP 2 
-
-remove outlier(noise) and generate scalograms , try to differentiate between healthy and non-healthy patients
+ #STEP 2
+ remove outlier(noise) and generate scalograms , try to differentiate between healthy and non-healthy patients
